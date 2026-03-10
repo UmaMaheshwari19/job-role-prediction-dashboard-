@@ -85,6 +85,7 @@ Job role prediction
 The trained model is integrated into the dashboard to generate real-time predictions.
 
 **📂 Project Structure**
+
 job-role-prediction-dashboard
 
 │
