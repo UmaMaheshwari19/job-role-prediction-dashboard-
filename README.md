@@ -86,11 +86,17 @@ The trained model is integrated into the dashboard to generate real-time predict
 
 **📂 Project Structure**
 job-role-prediction-dashboard
+
 │
+
 ├── app.py
+
 ├── model.pkl
+
 ├── dataset.csv
+
 ├── requirements.txt
+
 └── README.md
 
 
